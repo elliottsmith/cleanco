@@ -20,7 +20,7 @@ terms_by_type = {
       'teo', 'uab', 'scs', 'sprl', 'limited', 'bhd.', 'sdn. bhd.', 'sdn bhd', 'as',
       'lda.', 'tov', 'pp'
    ],
-   'Limited Liability Company': ['pllc', 'llc', 'l.l.c.', 'plc.', 'plc', 'hf.', 'oyj',
+   'Limited Liability Company': ['llc', 'l.l.c.', 'hf.', 'oyj',
       'a.e.', 'nyrt.', 'p.l.c.', 'sh.a.', 's.a.', 's.r.l.', 'srl.', 'srl', 'aat', '3at', 'd.d.',
       's.r.o.', 'spol. s r.o.', 's.m.b.a.', 'smba', 'sarl', 'nv', 'sa', 'aps',
       'a/s', 'p/s', 'sae', 'sasu', 'eurl', 'ae', 'cpt', 'as', 'ab', 'asa', 'ooo', 'dat',
@@ -39,7 +39,7 @@ terms_by_type = {
    'Private Company': ['private', 'pte', 'xk'],
    'Professional Corporation': ['p.c.', 'vof', 'snc'],
    'Professional Limited Liability Company': ['pllc', 'p.l.l.c.'],
-   'Public Limited Company': ['p.l.c', "plc"],
+   'Public Limited Company': ['pllc', 'plc.', 'plc', 'p.l.c', "public limited company"],
    'Sole Proprietorship': ['e.u.', 's.p.', 't:mi', 'tmi', 'e.v.', 'e.c.', 'et', 'obrt',
       'fie', 'ij', 'fop', 'xt'
    ]
