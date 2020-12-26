@@ -39,6 +39,7 @@ terms_by_type = {
    'Private Company': ['private', 'pte', 'xk'],
    'Professional Corporation': ['p.c.', 'vof', 'snc'],
    'Professional Limited Liability Company': ['pllc', 'p.l.l.c.'],
+   'Public Limited Company': ['p.l.c', "plc"],
    'Sole Proprietorship': ['e.u.', 's.p.', 't:mi', 'tmi', 'e.v.', 'e.c.', 'et', 'obrt',
       'fie', 'ij', 'fop', 'xt'
    ]
